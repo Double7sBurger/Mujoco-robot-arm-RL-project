@@ -5,3 +5,8 @@ UR5e Robot Reinforcement Learning This project is a reinforcement learning frame
 📦 Installation Clone this repo: git clone https://github.com/Double7sBurger/Mujoco-ur5e-robot-arm-basic-RL-project.git cd ur5e-rl Create and activate a conda environment: conda create -n mujoco_env python=3.10 -y conda activate mujoco_env Install dependencies: pip install -r requirements.txt Example of key dependencies: mujoco gymnasium stable-baselines3 tensorboard
 
 🚀 Training Run training with PPO: python scripts/train.py Key options inside train.py: total_timesteps: number of training steps tensorboard_log: path for TensorBoard logging reset_num_timesteps=False: continue training from checkpoints Check training progress with: tensorboard --logdir ./ppo_ur5e_tensorboard/
+
+
+
+https://github.com/user-attachments/assets/27ba458a-b2a0-4274-9fbc-735d878d8903
+

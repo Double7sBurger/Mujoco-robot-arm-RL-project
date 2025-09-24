@@ -8,5 +8,6 @@ UR5e Robot Reinforcement Learning This project is a reinforcement learning frame
 
 
 
-https://github.com/user-attachments/assets/27ba458a-b2a0-4274-9fbc-735d878d8903
+
+https://github.com/user-attachments/assets/ce831441-b40d-4ca5-85ca-6da1395610a0
 
